@@ -242,7 +242,7 @@ def setting():
     turtle.hideturtle()
     turtle.colormode(255)
     turtle.color((255,155,192),"pink")
-    turtle.setup(840,500)
+    turtle.setup(500,500)
     turtle.speed(10)
 
 def main():
