@@ -72,3 +72,6 @@ list.extend()     数组拼接，参数是数组
 
 
 
+(1,2,4)   #元组
+
+continue  和 break
